@@ -1,2 +1,4 @@
 # Project-Bangun-datar
-Project gabut saya yang ke 999999 kali
+Kalo Mau Hitung, Gunakan file utama yaitu main.py terus panggil function nya. Misal
+mencariNilaiB()
+maka langsung di minta input lalu akan keluar hasil nya
